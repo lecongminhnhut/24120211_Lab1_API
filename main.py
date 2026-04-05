@@ -6,7 +6,7 @@ import uvicorn
 app = FastAPI()
 
 # Dán link Pinggy từ Colab vào đây Ollama-Pinggy.ipynb]
-OLLAMA_URL = "https://uqcxw-34-148-42-172.run.pinggy-free.link/api/generate"
+OLLAMA_URL = "https://efxyq-34-148-42-172.run.pinggy-free.link/api/generate"
 
 class EmailRequest(BaseModel):
     text: str
