@@ -69,9 +69,11 @@ Sử dụng công cụ Swagger UI tích hợp sẵn tại: `http://127.0.0.1:800
 {
   "text": "Chúc mừng! Bạn đã trúng thưởng 10 triệu đồng. Nhấn vào link để nhận ngay."
 }
+```
+
 Response (JSON):
 
-json
+```json
 {
   "label": "SPAM",
   "confidence": "High (Gemma 2 Engine)"
