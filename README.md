@@ -60,17 +60,6 @@ Ví dụ minh họa
 Request (POST):
 
 JSON
-
-{
-"text": "Chúc mừng! Bạn đã trúng thưởng 10 triệu đồng. Nhấn vào link để nhận ngay."
-}
 ![alt text](image.png)
 Response (JSON):
-
-JSON
-
-{
-"label": "SPAM",
-"confidence": "High (Gemma 2 Engine)",
-}
-![alt text](image-1.png) 7. Liên kết Video Demo
+![alt text](image-1.png)
