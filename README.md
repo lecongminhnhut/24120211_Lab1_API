@@ -79,4 +79,7 @@ Response (JSON):
   "confidence": "High (Gemma 2 Engine)"
 }
 ```
-![](Lab1.mp4)
+
+https://github.com/user-attachments/assets/9bb00e8b-c379-4ccb-9cb2-4ba4f2b6eba7
+
+
